@@ -1,3 +1,5 @@
+---
 spring:
   application:
-    name: bind-mount
+    name: "bind-mount"
+storage-dir: "files"
